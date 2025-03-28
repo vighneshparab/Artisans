@@ -1,6 +1,6 @@
 # 🏺 Artisans: Global Handcrafted Goods Marketplace
 
-![Artisans Marketplace Banner](https://source.unsplash.com/1600x600/?handmade,crafts)
+![Artisans Marketplace Banner]([https://source.unsplash.com/1600x600/?handmade,crafts](https://github.com/vighneshparab/Artisans/blob/e76940b27c8b5f596be592c9f3c64cdd3214df8e/Banner.png))
 
 ## 📝 Project Overview
 
