@@ -1,0 +1,70 @@
+/* Styling for the filter section */
+.filter-section {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+}
+
+.filter-section h4 {
+    color: #AD8B73;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+/* Styling for individual filter dropdowns */
+.filter-select {
+    font-size: 1rem;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: #fff;
+    transition: border-color 0.3s;
+    width: 100%;
+}
+
+.filter-select:focus {
+    border-color: #AD8B73;
+    box-shadow: 0 0 5px rgba(173, 139, 115, 0.4);
+}
+
+/* Add some spacing between the dropdowns */
+.filter-item {
+    margin-bottom: 15px;
+}
+
+/* Price Range Dropdown Styling */
+.filter-price-range {
+    font-size: 1rem;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+
+.filter-price-range:focus {
+    border-color: #AD8B73;
+    box-shadow: 0 0 5px rgba(173, 139, 115, 0.4);
+}
+
+/* Hover effect for dropdown items */
+.filter-select option:hover {
+    background-color: #f1f1f1;
+}
+
+/* Buttons inside filters */
+.filter-button {
+    background-color: #AD8B73;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.filter-button:hover {
+    background-color: #CEAB93;
+}

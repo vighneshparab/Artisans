@@ -1,0 +1,7 @@
+.profile-dropdown .dropdown-menu {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    z-index: 1000;
+    display: block;
+}

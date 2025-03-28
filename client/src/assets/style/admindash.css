@@ -1,0 +1,17 @@
+/* Add this to your CSS or in a style tag */
+.number-animation {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    animation: countUp 2s ease-in-out forwards;
+}
+
+@keyframes countUp {
+    0% {
+        content: "0";
+    }
+
+    100% {
+        content: attr(data-count);
+    }
+}

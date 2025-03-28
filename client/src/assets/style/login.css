@@ -1,0 +1,61 @@
+/* Light Theme */
+.container-fluid {
+    background: #f5f7fa;
+}
+
+/* Left Image Section */
+.img-fluid {
+    object-fit: cover;
+    filter: brightness(0.9);
+}
+
+.overlay {
+    background: rgba(255, 255, 255, 0.7);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+/* Input Fields */
+.input-group-text {
+    background: #f0f0f0;
+    border-right: none;
+}
+
+.form-control {
+    border-left: none;
+}
+
+/* Button Styles */
+.btn-primary {
+    background: #4a90e2;
+    border: none;
+    padding: 12px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.btn-primary:hover {
+    background: #357ABD;
+}
+
+/* Social Buttons */
+.btn-outline-danger:hover {
+    background: #dc3545;
+    color: white;
+}
+
+.btn-outline-dark:hover {
+    background: black;
+    color: white;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .row {
+        flex-direction: column-reverse;
+    }
+
+    .img-fluid {
+        display: none;
+    }
+}
