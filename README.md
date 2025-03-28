@@ -1,7 +1,6 @@
 # 🏺 Artisans: Global Handcrafted Goods Marketplace
 
-![Artisans Marketplace Banner]([https://source.unsplash.com/1600x600/?handmade,crafts](https://github.com/vighneshparab/Artisans/blob/e76940b27c8b5f596be592c9f3c64cdd3214df8e/Banner.png))
-
+![Artisans Marketplace Banner] (https://github.com/vighneshparab/Artisans/blob/e76940b27c8b5f596be592c9f3c64cdd3214df8e/Banner.png)
 ## 📝 Project Overview
 
 Artisans is a comprehensive e-commerce platform designed to celebrate and support global craftsmanship. Our mission is to create a vibrant marketplace that connects passionate artisans with art enthusiasts, providing a seamless and inspiring shopping experience for unique, handcrafted goods.
