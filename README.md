@@ -1,7 +1,5 @@
 # 🏺 Artisans: Handcrafted Goods Marketplace
 
-![Project Banner](https://via.placeholder.com/1200x400?text=Artisans+Marketplace)
-
 ## 📝 Project Description
 
 Artisans is a full-featured e-commerce platform dedicated to showcasing and selling unique, handcrafted goods from talented artisans around the world. Our mission is to connect passionate creators with art lovers and support small-scale craftsmanship.
